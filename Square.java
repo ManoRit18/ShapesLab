@@ -4,7 +4,7 @@ public class Square extends Quadrilateral {
       super(side, side);
    }
    public String toString(){
-      String change = "OH GOD SHE MADE A CHANGE"
+      String change = "Ok ok SO she messed up whatevs HERE COMES ANOTHER CHANGE  KIDS"
       return "Square" + "    perimeter: " + super.getPerimeter() + "    area: " + super.getArea();
    }
 
